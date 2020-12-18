@@ -1,1 +1,3 @@
-Yao's First Git Repository
+Yao's first Git Repository
+
+And Yao's first branch!
